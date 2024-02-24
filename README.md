@@ -1,0 +1,2 @@
+# -geninAlan-n-Hesaplama
+ÜçgeninAlanınıHesaplama
